@@ -1,4 +1,4 @@
-## My GitHub Status
+## 🚀 My GitHub Status
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=yGiovana&rank_icon=github&show_icons=true&theme=radical&count_private=true">
