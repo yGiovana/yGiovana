@@ -1,3 +1,2 @@
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yGiovana&theme=tokyonight" alt="General stats badge"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yGiovana&theme=monokai" alt="Top languages by commit badge"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yGiovana&theme=tokyonight" alt="General stats badge"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yGiovana&theme=monokai" alt="Top languages by commit badge"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yGiovana&theme=monokai" alt="Profile details badge"/>
