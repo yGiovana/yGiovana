@@ -13,7 +13,7 @@
 
 Eu me chamo Giovana, tenho 19 anos, sou graduanda de **Sistemas de Informação**, na **Univeridade Federal do Sul e Sudeste do Pará.**              
 Tenho interesse na parte de desemvolvimento web, com foco no **Full Stack**, na **automatização** de tarefas, em **Cybersegurança** e no uso e criação de **Inteligência Artificial**.                                      
-Atualmente programo em **Python** e **Java** mas futuramente pretendo expandir meus conhecimentos de programação para a liguagem JavaScript.
+Atualmente programo em **Python** e **Java** mas futuramente pretendo expandir meus conhecimentos de programação para a liguagem JavaScript. 
 
 ## 📊 GitHub Profile Status
 
@@ -41,4 +41,8 @@ Atualmente programo em **Python** e **Java** mas futuramente pretendo expandir m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo"  />
   <img width="8" />
 </div>
+
+
+
+
 
