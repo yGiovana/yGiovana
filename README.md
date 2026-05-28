@@ -1,3 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yGiovana/yGiovana/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yGiovana/yGiovana/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/yGiovana/yGiovana/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 👩‍🦱 About Me
 
 Eu me chamo Giovana, tenho 19 anos, sou graduanda de **Sistemas de Informação**, na **Univeridade Federal do Sul e Sudeste do Pará.**              
