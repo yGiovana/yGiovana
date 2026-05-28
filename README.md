@@ -4,7 +4,9 @@ Eu me chamo Giovana, tenho 19 anos, sou graduanda de **Sistemas de Informação*
 Tenho interesse na parte de desemvolvimento web, com foco no **Full Stack**, na **automatização** de tarefas, em **Cybersegurança** e no uso e criação de **Inteligência Artificial**.                                      
 Atualmente programo em **Python** e **Java** mas futuramente pretendo expandir meus conhecimentos de programação para a liguagem JavaScript.
 
-## 📊 GitHub Profile Status  <div align="center">
+## 📊 GitHub Profile Status
+
+<div align="left">
   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=yGiovana&rank_icon=github&show_icons=true&theme=radical&count_private=true"> <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=yGiovana&layout=compact&theme=radical&count_private=true">
 </div>
 
